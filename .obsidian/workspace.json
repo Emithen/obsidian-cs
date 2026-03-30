@@ -15,9 +15,9 @@
               "state": {
                 "file": "01-software-engineering/Object-Orientation.canvas",
                 "viewState": {
-                  "x": -75.35824149827874,
-                  "y": -1.1040035157751689,
-                  "zoom": -1
+                  "x": -78.55744991402437,
+                  "y": -92.79925401024875,
+                  "zoom": -0.6666666666666667
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -227,7 +227,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e2c8765193e1859d",
+  "active": "2818adbebbd45f8c",
   "lastOpenFiles": [
     "01-software-engineering/IS-A.md",
     "01-software-engineering/Object-Orientation.canvas",
