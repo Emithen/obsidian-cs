@@ -1,4 +1,4 @@
-
+다형성
 #### Operation overriding
 - `Subclass` 가 `Superclass` 함수의 `prototype` 과 동일한 함수를 재정의하는 것
 
