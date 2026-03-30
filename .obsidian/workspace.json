@@ -11,11 +11,75 @@
             "id": "2818adbebbd45f8c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01-software-engineering/Waterfall model.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "Waterfall model"
             }
+          },
+          {
+            "id": "8c5974eae125a743",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Virtual function.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Virtual function"
+            },
+            "group": "0a4afdc4a1356949"
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "221b878174ff7390",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0a94e9de66136bd",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Virtual function.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Virtual function 그래프"
+            },
+            "group": "0a4afdc4a1356949"
           }
         ]
       }
@@ -177,10 +241,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2818adbebbd45f8c",
+  "active": "8c5974eae125a743",
   "lastOpenFiles": [
-    "01-software-engineering/Software process models.md",
+    "Polymorphism.md",
+    "Virtual function.md",
+    "01-software-engineering/Object-Orientation.md",
     "01-software-engineering/Integration and configuration.md",
-    "01-software-engineering/Incremental development.md"
+    "01-software-engineering/Incremental development.md",
+    "01-software-engineering/Waterfall model.md",
+    "00-meta",
+    "01-software-engineering/Software process models.md"
   ]
 }
