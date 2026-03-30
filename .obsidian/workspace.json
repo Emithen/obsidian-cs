@@ -11,33 +11,20 @@
             "id": "2818adbebbd45f8c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "01-software-engineering/Waterfall model.md",
-                "mode": "source",
-                "source": false
+                "file": "01-software-engineering/Object-Orientation.canvas",
+                "viewState": {
+                  "x": -75.35824149827874,
+                  "y": -1.1040035157751689,
+                  "zoom": -1
+                }
               },
-              "icon": "lucide-file",
-              "title": "Waterfall model"
-            }
-          },
-          {
-            "id": "8c5974eae125a743",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-software-engineering/Object-Orientation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
+              "icon": "lucide-layout-dashboard",
               "title": "Object-Orientation"
-            },
-            "group": "ebe2aa5fedb0328d"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "d61b887edfd58dc7",
@@ -49,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01-software-engineering/Object-Orientation.md",
+                "file": "01-software-engineering/Object-Orientation.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -78,8 +65,7 @@
               },
               "icon": "lucide-git-fork",
               "title": "Object-Orientation 그래프"
-            },
-            "group": "ebe2aa5fedb0328d"
+            }
           }
         ]
       }
@@ -241,17 +227,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c542689e27417b2b",
+  "active": "e2c8765193e1859d",
   "lastOpenFiles": [
-    "HAS-A.md",
+    "01-software-engineering/IS-A.md",
+    "01-software-engineering/Object-Orientation.canvas",
     "01-software-engineering/Object-Orientation.md",
-    "IS-A.md",
-    "01-software-engineering/Polymorphism.md",
-    "01-software-engineering/Virtual function.md",
     "01-software-engineering/Software process models.md",
     "01-software-engineering/Integration and configuration.md",
     "01-software-engineering/Incremental development.md",
     "01-software-engineering/Waterfall model.md",
+    "01-software-engineering/HAS-A.md",
+    "01-software-engineering/Polymorphism.md",
+    "01-software-engineering/Virtual function.md",
     "00-meta"
   ]
 }

@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"218e9454573372a6","x":-220,"y":-600,"width":280,"height":440,"type":"file","file":"01-software-engineering/Object-Orientation.md"},
+		{"id":"b0b0121e0856fbb9","x":-160,"y":20,"width":160,"height":50,"color":"6","type":"text","text":"Relationships"},
+		{"id":"d981a8a01ce53021","x":-319,"y":156,"width":199,"height":144,"type":"file","file":"01-software-engineering/IS-A.md"},
+		{"id":"d96c990063889666","x":-40,"y":156,"width":200,"height":144,"type":"file","file":"01-software-engineering/HAS-A.md"}
+	],
+	"edges":[
+		{"id":"8627956078c71b5c","fromNode":"218e9454573372a6","fromSide":"bottom","toNode":"b0b0121e0856fbb9","toSide":"top"},
+		{"id":"7d36d342a3928885","fromNode":"b0b0121e0856fbb9","fromSide":"bottom","toNode":"d981a8a01ce53021","toSide":"top"},
+		{"id":"47756e1c2b13feb2","fromNode":"b0b0121e0856fbb9","fromSide":"bottom","toNode":"d96c990063889666","toSide":"top"}
+	]
+}
