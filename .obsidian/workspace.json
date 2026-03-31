@@ -44,12 +44,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-computer-network/_Inbox/_notes.md",
+                "file": "02-computer-network/_Inbox/_출제 유형.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_notes"
+              "title": "_출제 유형"
             }
           },
           {
@@ -58,12 +58,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-computer-network/_Inbox/DNS.md",
+                "file": "02-computer-network/_Inbox/_출제 유형.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DNS"
+              "title": "_출제 유형"
             }
           },
           {
@@ -81,7 +81,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -252,12 +252,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2c0cfb4b59c65c58",
+  "active": "7eb2ac4e2b0a4aa7",
   "lastOpenFiles": [
-    "02-computer-network/_Inbox/Communication Links.md",
-    "02-computer-network/_Inbox/출제 포인트.md",
-    "02-computer-network/_Inbox/_notes.md",
     "02-computer-network/_Inbox/DNS.md",
+    "02-computer-network/_Inbox/_notes.md",
+    "02-computer-network/_Inbox/_출제 유형.md",
+    "02-computer-network/_Inbox/Communication Links.md",
     "02-computer-network/_Inbox/SMTP.md",
     "02-computer-network/Map/Computer Networks.md",
     "02-computer-network/Internet Structure/Access Network.md",

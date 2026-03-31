@@ -23,3 +23,16 @@ www
 ```
 
 - partially qualified domain name
+
+## 계층 구조
+
+- Root DNS Servers - Root
+	- .com DNS Servers - TLD (Top Level Domain)
+		- ...
+	- .org DNS Servers
+		- ...
+	- .edu DNS Servers
+		- ...
+
+- Root DNS Server 가 모든 걸 다 알고 있지는 않다
+	- 하위 DNS Server 들에게 요청에 대한 답변 권한을 이양한다
