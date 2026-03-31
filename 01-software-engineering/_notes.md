@@ -1,0 +1,7 @@
+- pure virtual function 만으로 이루어진 클래스
+	- C++ -> abstract class
+	- Java -> Interface
+- C++ 는 객체지향에 반하는 아이디어도 간간히 있다
+	- ex) friendly
+- Java 는 완전한 객체 지향 언어이다
+- Interface 는 한 번 정의하면 바꾸지 않는다

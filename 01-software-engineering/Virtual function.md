@@ -25,3 +25,8 @@ public:
 
 Animal a; // 불가능 (추상 클래스)
 ```
+
+#### Note
+- pure virtual function 만으로 이루어진 클래스
+	- C++ -> abstract class
+	- Java -> Interface
