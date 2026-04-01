@@ -69,3 +69,13 @@ www
 6. `...` 로부터 `authoritative server` 의 주소 받아 옴
 
 7. `authoritative server` 로부터 목적지 `IP` 주소가 포함된 공식 답변 획득
+
+## Records
+
+- type=A
+	- hostname 과 IP 주소를 매핑
+- type=CNAME
+	- hostname 과 canonical name 을 매핑
+	- 하나의 IP 를 가리키는 여러 hostname 이 존재할 때 IP 를 변수화 가능
+- type=NS
+	- 
