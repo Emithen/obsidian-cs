@@ -29,6 +29,7 @@ www
 - Root DNS Servers - Root
 	- .com DNS Servers - TLD (Top Level Domain)
 		- ...
+			- Authorotative DNS Servers
 	- .org DNS Servers
 		- ...
 	- .edu DNS Servers
@@ -36,3 +37,35 @@ www
 
 - Root DNS Server 가 모든 걸 다 알고 있지는 않다
 	- 하위 DNS Server 들에게 요청에 대한 답변 권한을 이양한다
+- TLD DNS Server
+	- 옛날에는 종류가 매우 한정되어 있었지만 지금은 꽤 많다
+	- Label 이 하나다
+- Authorotative DNS Server
+	- 공식 답변을 주는 말단 권한 서버
+	- 더 이상 권한을 이양하지 않고 IP 주소를 답변으로 제공한다
+	- 3 번째일 수도 있고 그 이상일 수도 있다
+
+## 개념 요소
+
+- `name`
+- `domain`
+- `zone`
+- `Local DNS server`
+- `records`
+- 
+
+## 실제 상호작용 예시 흐름 - Iterated qeury
+
+1. `query` 발생
+
+2. `local DNS name servers`
+
+3. `root DNS server` 로 질의 중계
+
+4. `root` 로부터 `TLD` 주소 받아 옴
+
+5. `TLD` 로부터 `...`
+
+6. `...` 로부터 `authoritative server` 의 주소 받아 옴
+
+7. `authoritative server` 로부터 목적지 `IP` 주소가 포함된 공식 답변 획득
