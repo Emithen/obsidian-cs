@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-computer-network/Internet Protocol Layer/Application Layer.md",
+                "file": "02-computer-network/Internet Protocol Layer/DNS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Application Layer"
+              "title": "DNS"
             }
           }
         ],
@@ -48,7 +48,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-computer-network/Internet Protocol Layer/Application Layer.md",
+                "file": "02-computer-network/Internet Protocol Layer/DNS.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Application Layer 그래프"
+              "title": "DNS 그래프"
             }
           }
         ]
@@ -239,10 +239,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e2c8765193e1859d",
+  "active": "1437758a3b70fd7a",
   "lastOpenFiles": [
-    "02-computer-network/Internet Protocol Layer/TCP IP 5계층.md",
     "02-computer-network/Internet Protocol Layer/Application Layer.md",
+    "02-computer-network/Internet Protocol Layer/TCP IP 5계층.md",
     "02-computer-network/Internet Protocol Layer/DNS.md",
     "02-computer-network/Internet Protocol Layer",
     "01-software-engineering/Object-Orientation.canvas",

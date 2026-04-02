@@ -40,7 +40,7 @@ www
 - TLD DNS Server
 	- 옛날에는 종류가 매우 한정되어 있었지만 지금은 꽤 많다
 	- Label 이 하나다
-- Authorotative DNS Server
+- Authoritative DNS Server
 	- 공식 답변을 주는 말단 권한 서버
 	- 더 이상 권한을 이양하지 않고 IP 주소를 답변으로 제공한다
 	- 3 번째일 수도 있고 그 이상일 수도 있다
