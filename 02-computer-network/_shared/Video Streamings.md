@@ -20,3 +20,11 @@
 
 #### 해결 전략
 - `Buffering`
+
+## DASH - Dynamic, Adaptive Streaming over HTTP
+
+HTTP 를 이용해 동적으로 화질을 조절하여 스트리밍하는 기술
+클라이언트가 자신의 인터넷 속도 및 환경에 따라 요청 화질을 결정한다
+
+- `manifest file`
+-  
