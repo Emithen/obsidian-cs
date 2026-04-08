@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-advanced-ml/_inbox/Loss function.md",
+                "file": "02-computer-network/Internet Protocol Layer/UDP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Loss function"
+              "title": "UDP"
             }
           }
         ]
@@ -192,10 +192,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2818adbebbd45f8c",
+  "active": "e2c8765193e1859d",
   "lastOpenFiles": [
-    "03-advanced-ml/_inbox/20260407.md",
+    "02-computer-network/Internet Protocol Layer/Transport Layer.md",
+    "02-computer-network/Internet Protocol Layer/UDP.md",
+    "02-computer-network/Internet Protocol Layer/TCP.md",
+    "02-computer-network/Internet Protocol Layer/TCP IP 5계층.md",
+    "02-computer-network/_shared/CDN.md",
+    "03-advanced-ml/Practice/PyTorch/Tensor.md",
+    "03-advanced-ml/Practice/PyTorch/_root.md",
+    "03-advanced-ml/Practice/PyTorch",
+    "03-advanced-ml/Practice/NumPy.md",
+    "03-advanced-ml/Practice/NN.md",
     "03-advanced-ml/_inbox/Loss function.md",
+    "03-advanced-ml/_inbox/20260407.md",
     "03-advanced-ml/_inbox/PCA.md",
     "03-advanced-ml/_inbox/MNIST.md",
     "03-advanced-ml/Map/Unsupervised Learning.md",
@@ -204,26 +214,17 @@
     "03-advanced-ml/Map/Semi-supervised Learning.md",
     "03-advanced-ml/Map/Reinforced Learning.md",
     "03-advanced-ml/Map/Machine Learning.md",
-    "02-computer-network/_shared/CDN.md",
     "02-computer-network/_shared/Video Streamings.md",
     "02-computer-network/Internet Protocol Layer/Application Layer.md",
     "02-computer-network/_shared/P2P.md",
     "02-computer-network/_shared",
     "02-computer-network/Internet Protocol Layer/DNS.md",
     "01-software-engineering/IS-A.md",
-    "02-computer-network/Internet Protocol Layer/TCP IP 5계층.md",
     "02-computer-network/Internet Protocol Layer/SMTP.md",
     "02-computer-network/Internet Protocol Layer",
     "01-software-engineering/_notes.md",
     "02-computer-network/_Inbox/DNS.md",
-    "03-advanced-ml/Practice/NumPy.md",
     "01-software-engineering/Object-Orientation.canvas",
-    "01-software-engineering/Waterfall model.md",
-    "01-software-engineering/Object-Orientation.md",
-    "02-computer-network/Map/Computer Networks.md",
-    "02-computer-network/_Inbox/_출제 유형.md",
-    "02-computer-network/_Inbox/_notes.md",
-    "02-computer-network/_Inbox/Communication Links.md",
     "00-meta"
   ]
 }
