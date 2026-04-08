@@ -1,5 +1,3 @@
-# Transport Layer (전송 계층)
-
 ## 개요
 Transport Layer(전송 계층)는 OSI 7계층 모델에서 4번째 계층으로, 종단 간(End-to-End) 통신을 담당한다.  
 데이터를 송신 측 프로세스에서 수신 측 프로세스까지 전달하며, 신뢰성, 흐름 제어, 오류 제어, 혼잡 제어 등의 기능을 제공한다.
@@ -14,9 +12,9 @@ Transport Layer(전송 계층)는 OSI 7계층 모델에서 4번째 계층으로,
 - **Error Control**: 데이터 손실 및 오류 복구
 - **Congestion Control**: 네트워크 혼잡 관리
 
-## 대표 프로토콜
-- **[[TCP]] (Transmission Control Protocol)**: 신뢰성 보장, 연결 지향
-- **[[UDP]] (User Datagram Protocol)**: 비연결, 빠르지만 신뢰성 낮음
+## 대표 프로토콜 - [[TCP&UDP]]
+- **TCP (Transmission Control Protocol)**: 신뢰성 보장, 연결 지향
+- **UDP (User Datagram Protocol)**: 비연결, 빠르지만 신뢰성 낮음
 
 ---
 
