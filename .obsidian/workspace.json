@@ -8,20 +8,63 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2818adbebbd45f8c",
+            "id": "36f7a5404d1eef27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-software-engineering/Use Case Diagram.md",
+                "file": "02-computer-network/_Inbox/UDP segment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Use Case Diagram"
+              "title": "UDP segment"
+            }
+          },
+          {
+            "id": "608fc7e0651967e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-computer-network/_Inbox/4월 14일.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4월 14일"
+            }
+          },
+          {
+            "id": "c74bd10f3e01d2f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-computer-network/_Inbox/One's Complement Sum.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "One's Complement Sum"
+            }
+          },
+          {
+            "id": "12bf6cad41ad972d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-computer-network/_Inbox/_출제 유형.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_출제 유형"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,18 +237,25 @@
   },
   "active": "e2c8765193e1859d",
   "lastOpenFiles": [
-    "use_case_diagram.md",
+    "02-computer-network/_Inbox/_출제 유형.md",
+    "02-computer-network/_Inbox/4월 14일.md",
+    "02-computer-network/_Inbox/UDP checksum.md",
+    "02-computer-network/_Inbox/UDP segment.md",
+    "02-computer-network/_Inbox/One's Complement Sum.md",
+    "02-computer-network/_Inbox/UDP.md",
+    "02-computer-network/Internet Protocol Layer/Transport Layer.md",
     "01-software-engineering/Use Case Diagram.md",
+    "02-computer-network/_Inbox/_notes.md",
+    "02-computer-network/Internet Protocol Layer/TCP&UDP.md",
+    "use_case_diagram.md",
     "01-software-engineering/UML.md",
     "01-software-engineering/Virtual function.md",
     "01-software-engineering/Waterfall model.md",
     "01-software-engineering/Software process models.md",
     "01-software-engineering/Object-Orientation.md",
     "01-software-engineering/Object-Orientation.canvas",
-    "02-computer-network/Internet Protocol Layer/Transport Layer.md",
     "transport_layer.md",
     "02-computer-network/Internet Protocol Layer/TCP IP 5계층.md",
-    "02-computer-network/Internet Protocol Layer/TCP&UDP.md",
     "02-computer-network/Internet Protocol Layer/SMTP.md",
     "02-computer-network/Internet Protocol Layer/TCP.md",
     "02-computer-network/_shared/CDN.md",
@@ -215,14 +265,7 @@
     "03-advanced-ml/Practice/NumPy.md",
     "03-advanced-ml/Practice/NN.md",
     "03-advanced-ml/_inbox/Loss function.md",
-    "03-advanced-ml/_inbox/20260407.md",
-    "03-advanced-ml/_inbox/PCA.md",
-    "03-advanced-ml/_inbox/MNIST.md",
-    "03-advanced-ml/Map/Unsupervised Learning.md",
     "03-advanced-ml/_inbox",
-    "03-advanced-ml/Map/Supervised Learning.md",
-    "03-advanced-ml/Map/Semi-supervised Learning.md",
-    "03-advanced-ml/Map/Reinforced Learning.md",
     "02-computer-network/_shared",
     "02-computer-network/Internet Protocol Layer",
     "00-meta"
