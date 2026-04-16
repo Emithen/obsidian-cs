@@ -25,6 +25,7 @@ TCP/IP protocol 제 5계층
 Application layer 위에서 동작하는 전달 방식과 구조들
 
 - [[P2P]]
+- [[Video Streamings]]
 - [[CDN]]
 
 # Network Interface
