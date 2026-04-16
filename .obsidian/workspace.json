@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-software-engineering/IS-A.md",
+                "file": "02-computer-network/_Inbox/DNS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IS-A"
+              "title": "DNS"
             }
           }
         ]
@@ -194,12 +194,13 @@
   },
   "active": "2818adbebbd45f8c",
   "lastOpenFiles": [
+    "02-computer-network/_Inbox/Networks.md",
+    "01-software-engineering/IS-A.md",
     "01-software-engineering/_notes.md",
     "02-computer-network/_Inbox/DNS.md",
     "03-advanced-ml/Practice/NumPy.md",
     "01-software-engineering/Object-Orientation.canvas",
     "01-software-engineering/Waterfall model.md",
-    "01-software-engineering/IS-A.md",
     "01-software-engineering/Object-Orientation.md",
     "02-computer-network/Map/Computer Networks.md",
     "02-computer-network/_Inbox/_출제 유형.md",
@@ -220,7 +221,6 @@
     "01-software-engineering/Virtual function.md",
     "01-software-engineering/Incremental development.md",
     "01-software-engineering/Integration and configuration.md",
-    "01-software-engineering/Software process models.md",
     "00-meta"
   ]
 }
