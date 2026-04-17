@@ -4,67 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "2472d99297013afc",
+        "id": "30188ad005984b0f",
         "type": "tabs",
         "children": [
           {
-            "id": "36f7a5404d1eef27",
+            "id": "f5e519691a80f9d2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-computer-network/_Inbox/UDP segment.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "UDP segment"
-            }
-          },
-          {
-            "id": "608fc7e0651967e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03-advanced-ml/_inbox/20260414.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "20260414"
-            }
-          },
-          {
-            "id": "c74bd10f3e01d2f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-computer-network/_Inbox/One's Complement Sum.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "One's Complement Sum"
-            }
-          },
-          {
-            "id": "12bf6cad41ad972d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-computer-network/_Inbox/_출제 유형.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "_출제 유형"
+              "title": "새 탭"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -235,18 +188,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "608fc7e0651967e7",
+  "active": "f5e519691a80f9d2",
   "lastOpenFiles": [
-    "02-computer-network/Internet Protocol Layer/DNS.md",
-    "03-advanced-ml/_inbox/20260414.md",
-    "02-computer-network/_Inbox/4월 14일.md",
     "02-computer-network/_Inbox/_출제 유형.md",
-    "02-computer-network/_Inbox/UDP checksum.md",
-    "02-computer-network/_Inbox/UDP segment.md",
     "02-computer-network/_Inbox/One's Complement Sum.md",
-    "02-computer-network/_Inbox/UDP.md",
-    "02-computer-network/Internet Protocol Layer/Transport Layer.md",
     "01-software-engineering/Use Case Diagram.md",
+    "01-software-engineering/_notes.md",
+    "02-computer-network/_Inbox/4월 14일.md",
+    "02-computer-network/_Inbox/UDP.md",
+    "02-computer-network/_Inbox/UDP segment.md",
+    "03-advanced-ml/_inbox/20260414.md",
+    "01-software-engineering/Polymorphism.md",
+    "01-software-engineering/Object-Orientation.md",
+    "03-advanced-ml/_inbox/20260407.md",
+    "Clippings/Spring Boot.md",
+    "Clippings",
+    "02-computer-network/Internet Protocol Layer/DNS.md",
+    "02-computer-network/_Inbox/UDP checksum.md",
+    "02-computer-network/Internet Protocol Layer/Transport Layer.md",
     "02-computer-network/_Inbox/_notes.md",
     "02-computer-network/Internet Protocol Layer/TCP&UDP.md",
     "use_case_diagram.md",
@@ -254,17 +213,12 @@
     "01-software-engineering/Virtual function.md",
     "01-software-engineering/Waterfall model.md",
     "01-software-engineering/Software process models.md",
-    "01-software-engineering/Object-Orientation.md",
     "01-software-engineering/Object-Orientation.canvas",
     "transport_layer.md",
     "02-computer-network/Internet Protocol Layer/TCP IP 5계층.md",
     "02-computer-network/Internet Protocol Layer/SMTP.md",
     "02-computer-network/Internet Protocol Layer/TCP.md",
-    "02-computer-network/_shared/CDN.md",
-    "03-advanced-ml/Practice/PyTorch/Tensor.md",
-    "03-advanced-ml/Practice/PyTorch/_root.md",
     "03-advanced-ml/Practice/PyTorch",
-    "03-advanced-ml/Practice/NumPy.md",
     "03-advanced-ml/_inbox",
     "02-computer-network/_shared",
     "02-computer-network/Internet Protocol Layer",
