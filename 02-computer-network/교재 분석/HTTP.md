@@ -78,8 +78,24 @@
 	- local web cache
 	- conditional GET
 	- hit rate
+	- 304 Not Modified
 - IDEA
 	- 캐시 서버는 보통 ISP 가 설치한다
 	- conditional GET 은 캐시 서버가 본인이 가진 캐시의 modified 정보를 확인해 최신화 여부에 따라 응답 포함 여부를 결정하는 방식이다
 
 ### HTTP/2
+
+- KEYWORD
+	- HOL blocking
+	- framing
+	- interleaving
+	- message prioritization
+	- server side push
+	- stream
+	- HTTP/3
+- IDEA
+	- HTTP/1.1 브라우저에서는 여러 개의 병렬 TCP 연결을 열어서 HOL 블로킹 문제를 해결했다
+		- 이렇게 하면 하나의 페이지를 불러오려는 시도가 링크의 대역폭을 좀 더 많이 할당 받을 수 있게 된다
+	- HTTP/1.1 이 TCP 위에서 동작하는 경우 순서 보장을 하는 과정에서 loss 회복을 하느라 뒤에 추가로 잘 도착한 데이터들을 애플리케이션에게 전달하지 못하는 병목이 발생할 수 있다
+	- HTTP/3 는 application layer protocol 인 QUIC 위에서 동작하는 프로토콜이며 UDP 위에서 동작한다
+		- 더 세밀한 보안과 오류, 흐름 제어를 제공한다
