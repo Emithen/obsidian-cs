@@ -8,14 +8,14 @@ TCP/IP protocol 제 5계층
 # Protocols
 
 - `Web`
-	- [[HTTP/HTTPS]]
+	- **[[HTTP/HTTPS]]**
 - `file`
 	- [[FTP]] -> 중요하게 안 다룸
 - `email`
-	- [[SMTP]]
+	- **[[SMTP]]**
 	- [[IMAP]] -> 잠깐 나옴
 - `주소 변환`
-	- [[DNS]]
+	- **[[DNS]]**
 - `원격 접속` -> 거의 안 나옴
 	- [[SSH]]
 	- [[Telnet]]
